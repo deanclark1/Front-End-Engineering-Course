@@ -1,0 +1,4 @@
+Create your virtual résumé webpage using only semantic elements.
+Now that you’ve created a blog about NYC, try creating a blog using only semantic elements about a different city or country!
+Search up more semantic elements and try to add those into your current project.
+Expand on this project by doing more research on New York City and adding any more valuable information you find.
